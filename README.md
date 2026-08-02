@@ -1,45 +1,76 @@
-# Yachiyo / 月见八千代
+# Yachiyo / 月見八千代
 
 > やおよろー。欢迎来到我的 GitHub。
 
 ![Yachiyo](./images/Yachiyo.webp)
 
-你好，我是 **Yachiyo**。  
-如果你是偶然来到这里的，那么就当作是在月夜里路过了一座小小的舞台吧。
+你好，我是 **Yachiyo / 月見八千代**。
 
-我会在这里整理自己写过的代码、正在打磨的工具，还有一些和 Web、自动化、个人工作流有关的小实验。比起很快地堆出许多项目，我更喜欢慢慢把一件东西做顺、做清楚，直到它真的能陪我用很久。
+**AI Agent 构建者 · 模型网关设计者 · 自动化工作流实践者**
+
+我在「月読」构建 AI 应用与 Agent 系统，关注如何把 AI 从“能聊天的模型”变成真正能参与工作流的系统。对我来说，Agent 不只是 prompt、工具调用或一个漂亮 demo，而是一套可以被调度、被观察、能恢复、能协作的工程结构。
+
+我喜欢把复杂系统拆成边界清晰的模块：谁负责决策，谁负责执行，谁负责验证，状态如何流转，失败如何兜底。比起第一次跑通，我更在意系统是否可维护、可观测、可扩展。
 
 ## About Me
 
-- 喜欢把复杂的事情整理成清晰、安静、好使用的界面
-- 常写 Node.js / TypeScript / Python / Go，也会做一些前端交互和个人页面
-- 对自动化、资料归档、内容展示和创作工具很感兴趣
-- 喜欢舞台、月光、音乐，以及可以让人自由表达的小空间
+- 构建多 Agent 协作、任务编排、Memory、Tool use / MCP、RAG 与上下文工程
+- 设计低成本 API Relay / Model Gateway，把模型供给变成更稳定的基础设施
+- 使用 Rust / TypeScript / Python / Go 构建 AI 应用、自动化工具与工程系统
+- 围绕 Cloudflare、Docker、GitHub Actions 搭建部署、监控和个人工作流
 
 ## Now On Stage
 
-- 打磨这个 GitHub profile，让它更像一个可以停留的入口
-- 写一些日常会用到的小工具和脚本
-- 探索 AI / Agent 在个人工作流里的实际用法
-- 练习 Web UI、组件、动效和交互细节
-- 把灵感、资料和项目慢慢归档起来
+- 构建面向真实任务的多 Agent 协作与调度系统
+- 打磨低成本 API Relay / Model Gateway 基础设施
+- 探索 Agent 记忆、状态流转与失败恢复的实用边界
+- 把内部自动化工具整理成更稳定、可复用的工程形态
+- 记录 AI 应用从 demo 走向可运行系统的设计取舍
 
-## Tech Stack
+## Tech Stack & Focus
 
+### Agent 系统
+
+`Multi-Agent Collaboration` · `Task Scheduling & Orchestration` · `Memory` · `Tool use / MCP` · `RAG & Context Engineering`
+
+### AI 基础设施
+
+`API Relay` · `Model Gateway` · `Low-cost Model Supply` · `LLM Engineering` · `Automation Monitoring`
+
+### Engineering Stack
+
+![Rust](https://img.shields.io/badge/Rust-111?style=flat-square&logo=rust)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/Go-111?style=flat-square&logo=go)
+![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-111?style=flat-square&logo=vite)
+
+### 部署 & 自动化
+
+`Cloudflare Workers` · `Docker` · `GitHub Actions` · `Personal Automation Workflows` · `Developer Tools`
 
 ## Little Tsukuyomi
 
 ```txt
-web pages       : personal sites, profiles, small interfaces
-tools           : scripts, automation, workflow helpers
-ai / agents     : assistants, workflows, small experiments
-experiments     : creative coding, interaction, archives
+mission         : turn capable models into runnable systems
+principles      : clear boundaries, observable state, graceful recovery
+focus           : agents, infrastructure, automation, developer tools
 favorite mood   : quiet, bright, a little theatrical
 ```
+
+## 个人主页 / Website
+
+[🌙 个人主页 · yachiyo.im](https://yachiyo.im)
+
+这里是我的个人主页，也是「月読」的入口，记录我在 AI、Agent、工具与系统构建上的实践、观察与思考。
+
+这里会分享 Agent / Workflow 的思考，对 AI 模型与技术路线的观察，工具与工程实践，以及围绕产品、工作方式和长期方向的随想。
+
+内容不限定为教程或项目日志；有时是一个已经验证的方案，有时只是对某个问题的拆解和阶段性判断。欢迎从这里了解我最近在关注什么。
+
+<hr />
 
 ## 月読 / Tsukuyomi Channel
 
@@ -47,7 +78,8 @@ favorite mood   : quiet, bright, a little theatrical
 
 月読是 Yachiyo 的项目观测与思考记录。
 
-这里会自动同步公开仓库的更新播报，也会写一些关于技术、AI 等内容的思考。  
+这里会记录 AI Agent、系统构建与自动化实践，也会分享公开项目的更新和技术思考。
+
 代码在这里留下变更，想法也在这里慢慢沉淀。
 
 如果你想知道这座小舞台上又亮起了哪些新的灯，欢迎来月読坐坐。
