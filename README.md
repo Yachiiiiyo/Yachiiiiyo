@@ -15,14 +15,14 @@
 ## About Me
 
 - 构建多 Agent 协作、任务编排、Memory、Tool use / MCP、RAG 与上下文工程
-- 设计低成本 API Relay / Model Gateway，把模型供给变成更稳定的基础设施
+- 设计多模型网关（Model Gateway），做模型路由、容错与成本优化，让模型调用成为稳定的基础设施
 - 使用 Rust / TypeScript / Python / Go 构建 AI 应用、自动化工具与工程系统
 - 围绕 Cloudflare、Docker、GitHub Actions 搭建部署、监控和个人工作流
 
 ## Now On Stage
 
 - 构建面向真实任务的多 Agent 协作与调度系统
-- 打磨低成本 API Relay / Model Gateway 基础设施
+- 打磨多模型网关与模型路由基础设施
 - 探索 Agent 记忆、状态流转与失败恢复的实用边界
 - 把内部自动化工具整理成更稳定、可复用的工程形态
 - 记录 AI 应用从 demo 走向可运行系统的设计取舍
@@ -35,7 +35,7 @@
 
 ### AI 基础设施
 
-`API Relay` · `Model Gateway` · `Low-cost Model Supply` · `LLM Engineering` · `Automation Monitoring`
+`Model Gateway` · `Model Routing` · `Cost Optimization` · `LLM Engineering` · `Automation Monitoring`
 
 ### Engineering Stack
 
@@ -69,20 +69,6 @@ favorite mood   : quiet, bright, a little theatrical
 这里会分享 Agent / Workflow 的思考，对 AI 模型与技术路线的观察，工具与工程实践，以及围绕产品、工作方式和长期方向的随想。
 
 内容不限定为教程或项目日志；有时是一个已经验证的方案，有时只是对某个问题的拆解和阶段性判断。欢迎从这里了解我最近在关注什么。
-
-<hr />
-
-## 月読 / Tsukuyomi Channel
-
-[![Telegram](https://img.shields.io/badge/Telegram-@yachiyo__tsukuyomi-111?style=flat-square&logo=telegram)](https://t.me/yachiyo_tsukuyomi)
-
-月読是 Yachiyo 的项目观测与思考记录。
-
-这里会记录 AI Agent、系统构建与自动化实践，也会分享公开项目的更新和技术思考。
-
-代码在这里留下变更，想法也在这里慢慢沉淀。
-
-如果你想知道这座小舞台上又亮起了哪些新的灯，欢迎来月読坐坐。
 
 ## To My Visitors
 
