@@ -2,8 +2,6 @@
 
 > やおよろー。欢迎来到我的 GitHub。
 
-![Yachiyo](./images/Yachiyo.webp)
-
 你好，我是 **Yachiyo / 月見八千代**。
 
 **AI Agent 构建者 · 模型网关设计者 · 自动化工作流实践者**
